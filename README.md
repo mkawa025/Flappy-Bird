@@ -18,9 +18,9 @@ Flappy Bird is a 2-D game where a player should avoid hitting walls through a ti
 &emsp; – Breadboard 1PC<br />
 
 # 3. Basic Functionality
-The game consists of a single player. The joystick controls the player’s character (circle or point) to move up and down (vertically) on the screen. The computer will generate ”Walls” and pass them towards the player character; the player must avoid them by positioning their character in line with wall cut-offs ”Holes.”<br />
-If the player hits the ”Wall,” they lose a life (one out of four max); the level will start over if they reach zero. The number of lives remaining will be displayed and updated on a 7-Segment Display separate from the game (Nokia 5110 LCD screen).<br />
-The player will have the ability to see each level duration time, displayed on 4 Digit 7-Segment Display in seconds. When the player finishes all their level with ≥ 0 lives, the player wins, lights will flash and music will be play (10sec); the game goes back to the start menu. The start menu will have a start option and difficulty level. The game resets when the player presses the reset button.
+• The game consists of a single player. The joystick controls the player’s character (circle or point) to move up and down (vertically) on the screen. The computer will generate ”Walls” and pass them towards the player character; the player must avoid them by positioning their character in line with wall cut-offs ”Holes.”<br />
+• If the player hits the ”Wall,” they lose a life (one out of four max); the level will start over if they reach zero. The number of lives remaining will be displayed and updated on a 7-Segment Display separate from the game (Nokia 5110 LCD screen).<br />
+• The player will have the ability to see each level duration time, displayed on 4 Digit 7-Segment Display in seconds. When the player finishes all their level with ≥ 0 lives, the player wins, lights will flash and music will be play (10sec); the game goes back to the start menu. The start menu will have a start option and difficulty level. The game resets when the player presses the reset button.
 
 # 4. User Guide
 • Nokia 5110 LCD screen output the whole game including drawing game process, different menus and screens<br />
