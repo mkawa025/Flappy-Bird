@@ -39,3 +39,6 @@ All three libraries below sole purpose are to drive my Nokia 5110 LCD Screen .<b
 &emsp; https://www.arduino.cc/reference/en/libraries/adafruit-gfx-library/<br />
 • Adafruit PCD8544 Nokia 5110 LCD library is a Arduino driver for PC8544, used to operate my screen.<br />
 &emsp; https://www.arduino.cc/reference/en/libraries/adafruit-pcd8544-nokia-5110-lcd-library/.
+
+# 6. Wiring Diagram
+<img src="WiringDiagram.jpeg?raw=true" width="1000">
